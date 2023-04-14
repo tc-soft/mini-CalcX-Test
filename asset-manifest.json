@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mini-CalcX-Test/static/css/main.073c9b0a.css",
+    "main.js": "/mini-CalcX-Test/static/js/main.0cb013bc.js",
+    "static/js/787.c9dfe3cf.chunk.js": "/mini-CalcX-Test/static/js/787.c9dfe3cf.chunk.js",
+    "static/media/logo.svg": "/mini-CalcX-Test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mini-CalcX-Test/index.html",
+    "main.073c9b0a.css.map": "/mini-CalcX-Test/static/css/main.073c9b0a.css.map",
+    "main.0cb013bc.js.map": "/mini-CalcX-Test/static/js/main.0cb013bc.js.map",
+    "787.c9dfe3cf.chunk.js.map": "/mini-CalcX-Test/static/js/787.c9dfe3cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0cb013bc.js"
+  ]
+}
